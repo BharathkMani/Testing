@@ -3,8 +3,6 @@ package com.pom.pack;
 import BaseClass.TestBase;
 
 public class Cart  extends TestBase{
-	
-	
 
 	public Cart() throws Exception {
 		
